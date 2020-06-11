@@ -11,12 +11,12 @@ ST = KS
 L = Olathe
 O = IT
 OU = IT Department
-emailAddress = webmaster@example.com
-CN = localhost
+emailAddress = rafodelmal@gmail.com
+CN = bot.ceiba.dev
 
 [v3_req]
 subjectAltName = @alt_names
 
 [alt_names]
-DNS.1 = *.localhost
-DNS.2 = localhost
+DNS.1 = *.bot.ceiba.dev
+DNS.2 = bot.ceiba.dev
